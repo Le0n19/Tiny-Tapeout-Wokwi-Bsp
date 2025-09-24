@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The gates xnor, inv, and are connected with each other to the outputs 0-7
 
 ## How to test
-
-Explain how to use your project
+Click on play and test all the buttons out to see which combination works out
+Click on the reset button if something is wrong
 
 ## External hardware
 
